@@ -187,7 +187,8 @@
         0.0,
         0.254,
         0.5,
-        2.54
+        2.54,
+        5.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -524,7 +525,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "plots/anavi-miracle-blink-10",
+      "plot": "plots/anavi-miracle-blink-11",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
